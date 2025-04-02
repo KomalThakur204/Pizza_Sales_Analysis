@@ -66,7 +66,8 @@ The cleaned data was imported into SQL for exploration and transformation.
 ✔️ Aggregated sales data (total revenue, orders, etc.).  
 ✔️ Identified top and bottom-performing pizzas.  
 ✔️ Created calculated fields for KPIs like Average Order Value. 
-📄 **[SQL Queries File](https://github.com/KomalThakur204/Pizza_Sales_Analysis/blob/main/PIZZA%20SALES%20SQL%20QUERIES.pdf)**  
+
+ 📄 **[SQL Queries File](https://github.com/KomalThakur204/Pizza_Sales_Analysis/blob/main/PIZZA%20SALES%20SQL%20QUERIES.pdf)**  
 ### **3️⃣ Data Visualization in Power BI** 📊  
 The transformed data was visualized using Power BI to gain meaningful insights.  
 **Key Visualizations:**  
@@ -75,7 +76,7 @@ The transformed data was visualized using Power BI to gain meaningful insights.
 ✔️ **Top & Bottom Performers:** Best & worst-selling pizzas.  
 ✔️ **KPI Dashboard:** Total Revenue, Orders, and Average Order Value.  
 
-📊 **[Power BI Dashboard File](https://github.com/KomalThakur204/Pizza_Sales_Analysis/blob/main/Pizza_Sales.pbix)**  
+ 📊 **[Power BI Dashboard File](https://github.com/KomalThakur204/Pizza_Sales_Analysis/blob/main/Pizza_Sales.pbix)**  
 📸 **Dashboard Screenshots**![Home Dashboard](https://github.com/user-attachments/assets/d4d193bb-6bbb-48e1-a627-bcd7ac06cf75)
 ![BestWorstSeller](https://github.com/user-attachments/assets/cfce927d-69e6-40b4-934b-eeacbc562961) 
 
