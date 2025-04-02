@@ -1,2 +1,3 @@
-# Pizza_Sales_Analysis
-The Pizza Sales Analysis project is designed to provide insights into sales performance, customer preferences, and operational efficiency for a pizza restaurant. The analysis utilizes SQL for data extraction, transformation, and querying, while Power BI is used for data visualization to generate meaningful reports and dashboards.
+# 🍕Pizza Sales Analysis
+## 📌 Project Overview
+This project aims to analyze pizza sales data using SQL for data extraction and transformation and Power BI for interactive visualizations. The dashboard provides insights into total revenue, best-selling and worst-selling pizzas, sales trends, and customer preferences.
