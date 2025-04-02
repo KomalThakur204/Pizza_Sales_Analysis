@@ -83,3 +83,12 @@ The transformed data was visualized using Power BI to gain meaningful insights.
 ---
 
 This structured process ensures a clear data pipeline from **cleaning ➝ analysis ➝ insights** 🚀.  
+## 📈 Key Insights  
+
+📌 **Highest sales** occur on weekends, especially **Friday and Saturday evenings**.  
+📌 **July and January** have the most orders, indicating **peak months** for sales.  
+📌 **Classic pizzas** contribute the most to overall revenue.  
+📌 **Large-sized pizzas** generate the **highest revenue** among all sizes.  
+📌 Some pizzas have **significantly low sales**, indicating a need for **menu optimization**.  
+
+These insights help in understanding customer preferences and optimizing sales strategies.  
