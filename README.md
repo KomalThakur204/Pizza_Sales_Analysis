@@ -99,3 +99,6 @@ These insights help in understanding customer preferences and optimizing sales s
 - 4️⃣ Open the Power BI file (.pbix) to explore the interactive dashboards.
 ## ✅Conclusion
 This project analyzes pizza sales data to identify trends, customer preferences, and business performance. By using SQL for data processing and Power BI for visualization, businesses can optimize their strategies and improve sales.
+## ⭐Get Involved!
+If you found this project useful, give it a ⭐ on GitHub!
+For any questions or collaboration, feel free to contact me. Happy analyzing! 🎉
