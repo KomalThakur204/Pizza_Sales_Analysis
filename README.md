@@ -94,7 +94,7 @@ This structured process ensures a clear data pipeline from **cleaning ➝ analys
 These insights help in understanding customer preferences and optimizing sales strategies.  
 ## 📜 How to Use This Repository
 - 1️⃣ Clone the repository:
-git clone https://github.com/KomalThakur204/Pizza_Sales_Analysis
+- git clone https://github.com/KomalThakur204/Pizza_Sales_Analysis
 - 2️⃣ Import the dataset into your SQL database.
 - 3️⃣ Run the SQL queries to analyze the data.
 - 4️⃣ Open the Power BI file (.pbix) to explore the interactive dashboards.
